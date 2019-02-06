@@ -43,7 +43,6 @@ Put all mods in your *FortressForever/maps/includes/* folder and add the appropr
    Makes a player Immune to damage for a few seconds after spawning or until they attack another player. Can be used in any game mode.
    ```lua
    local IMMUNE_TIME = 3
-   game_auto_balance - Download Link
    ```
 * **game_auto_balance**
 
