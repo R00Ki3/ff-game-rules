@@ -54,8 +54,6 @@ Put all mods in your *FortressForever/maps/includes/* folder and add the appropr
    ```lua
    local PLAYERS_NEEDED = 10
    ```
-   ![Screenshot](http://i58.tinypic.com/k3181s.png)
-
 * **game_ff_armor**
 
    Armor-Only friendly fire. Mirror damage or Team only damage available.
@@ -75,7 +73,6 @@ Put all mods in your *FortressForever/maps/includes/* folder and add the appropr
    local UsefulTip = "Type 'r' when you are ready to start the match."
    local ChatStrings = { "r", "ready", "start", "go" }  -- Strings to use for a player to accept being ready
    ```
-   ![screenshot](http://oi57.tinypic.com/eh0hgh.jpg)
    
 * **game_duels**
 
